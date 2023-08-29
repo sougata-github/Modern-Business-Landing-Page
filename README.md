@@ -41,7 +41,7 @@ The landing page boasts visually appealing gradients, maintaining a consistent a
 ![Screenshot (47)](https://github.com/SDInfinity/Modern-Business-Landing-Page/assets/102734212/eeadb1e2-afda-4051-abf4-45e866e228bc)
 
 
-## Tools Used
+## Technologies
 
 
 - React
